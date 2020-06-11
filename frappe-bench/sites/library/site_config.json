@@ -1,0 +1,13 @@
+{
+ "db_name": "00299a408dc3498a", 
+ "db_password": "eXBcO87QfdIgAjP9", 
+ "developer_mode": 1, 
+ "limits": {
+  "space_usage": {
+   "backup_size": 0.0, 
+   "database_size": 4.87, 
+   "files_size": 2.0, 
+   "total": 6.87
+  }
+ }
+}

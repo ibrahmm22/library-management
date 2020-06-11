@@ -1,0 +1,8 @@
+2020-06-10 23:10:58,374 INFO getting app erpnext
+2020-06-10 23:10:58,379 INFO git clone https://github.com/frappe/erpnext --branch version-11 --depth 1 --origin upstream
+2020-06-10 23:11:42,031 INFO installing erpnext
+2020-06-10 23:11:42,031 INFO ./env/bin/pip install -q -U -e ./apps/erpnext 
+2020-06-10 23:13:27,674 INFO bench build --app erpnext
+2020-06-10 23:15:14,241 INFO creating new app library_management
+2020-06-10 23:16:14,278 INFO installing library_management
+2020-06-10 23:16:14,278 INFO ./env/bin/pip install -q -U -e ./apps/library_management 
